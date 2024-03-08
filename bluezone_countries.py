@@ -1,5 +1,3 @@
-%pip install wbdata
-%pip install matplotlib
 
 import wbdata
 import pandas as pd
