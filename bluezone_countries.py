@@ -1,6 +1,10 @@
+#The following code plots Each blue zone country. This allows us to further analyze how the countries of each blue zone differ in average life expectancy. 
+
 !pip install wbdata
+!pip install matplotlib
 !pip install --upgrade wbdata
-!pip insatll matplotlib
+
+
 
 import wbdata
 import pandas as pd
@@ -37,4 +41,3 @@ plt.ylabel('Life Expectancy')
 plt.legend()
 plt.grid(True)
 plt.show()
-
