@@ -1,3 +1,6 @@
+!pip install wbdata
+!pip install --upgrade wbdata
+!pip insatll matplotlib
 
 import wbdata
 import pandas as pd
