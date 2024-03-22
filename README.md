@@ -16,6 +16,9 @@ Kanay Mathur (kanay.mathur@berkeley.edu)
 #
 #
 #
+#
+Tried helping out by making the ReadMe.MD and code review and code that many people seemed to like/appreciate in the overral reviews but nevermind yall are weirdos...
+
 The term “Blue Zones” refers to five areas across the world where the population consistently exceeds the average life expectancy. While this is due to a combination of factors including activity level and sense of community, a large component is their diets.  
 
 Our goal for this project was to compare the minimum  costs of two diets from Blue Zones to the diet of a typical UC Berkeley student. We wanted to find out if these diets are doable for a student on a budget who primarily shops at Safeway.  
